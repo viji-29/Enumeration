@@ -32,22 +32,43 @@ Google hacking, also known as Google dorking, is a technique that involves using
 
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
+## Output:
+![image](https://github.com/rajeshmahi/Enumeration/assets/117527801/2331438a-ae39-4631-98b8-37ed0042eacf)
+
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
+## Output:
+![image](https://github.com/rajeshmahi/Enumeration/assets/117527801/1074cda4-e69e-40ae-8f9b-fad3bd8f8960)
+
 
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
+## Output:
+![image](https://github.com/rajeshmahi/Enumeration/assets/117527801/4bbf3d91-7e7c-4f11-9b60-ed32b6a2a38d)
+
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+## Output:
+![image](https://github.com/rajeshmahi/Enumeration/assets/117527801/c90beb02-2e0e-4ce6-a7c7-d962b25e24ae)
+
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+## Output:
+![image](https://github.com/rajeshmahi/Enumeration/assets/117527801/98425faf-53c2-4fff-b0fb-b4b8dc463a9d)
+
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+## Output:
+![image](https://github.com/rajeshmahi/Enumeration/assets/117527801/c815b783-2b58-44aa-ab2e-c5af2da4eda1)
+
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+## Output:
+![image](https://github.com/rajeshmahi/Enumeration/assets/117527801/444da2be-493c-4172-a231-dd7e7a8f7730)
+
 
  
 #DNS Enumeration
@@ -110,4 +131,3 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
-
